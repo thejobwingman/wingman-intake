@@ -37,3 +37,9 @@ Build the application (used in CI/CD):
 ```bash
 npm run build
 ```
+
+## Versioning
+
+This project follows [Semantic Versioning](https://semver.org/) while in active development.
+
+During the `0.x` phase, minor versions may include breaking changes as the product evolves toward a stable MVP.
